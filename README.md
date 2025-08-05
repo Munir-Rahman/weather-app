@@ -6,7 +6,7 @@ A simple and responsive Weather Application that fetches real-time weather data 
 
 ## 📸 Demo
 
-./img/web-image.png
+![Weather App Screenshot](./img/web-image.png)
 [Live Demo Link – optional if deployed on Vercel, Netlify, etc.]
 
 ---
@@ -35,3 +35,14 @@ A simple and responsive Weather Application that fetches real-time weather data 
 ```bash
 git clone https://github.com/yourusername/weather-app.git
 cd weather-app
+```
+
+## 🙋‍♂️ Author
+Munir Rahman
+Front-End Web Developer
+[LinkedIn – optional] | [Portfolio – optional] | [Email – optional]
+
+---
+
+Let me know if your app has **Geolocation**, **Dark Mode**, or a **5-day forecast**, and I’ll update the README to include that too.
+
