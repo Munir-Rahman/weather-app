@@ -6,7 +6,7 @@ A simple and responsive Weather Application that fetches real-time weather data 
 
 ## 📸 Demo
 
-[Include a screenshot here – optional]  
+./img/web-image.png
 [Live Demo Link – optional if deployed on Vercel, Netlify, etc.]
 
 ---
