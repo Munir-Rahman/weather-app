@@ -40,7 +40,7 @@ cd weather-app
 ## 🙋‍♂️ Author
 Munir Rahman
 Front-End Web Developer
-[LinkedIn – optional] | [Portfolio – optional] | [Email – optional]
+#LinkedIn – https://af.linkedin.com/in/munir-rahman-rahmani-9a9149350 | #Email – munirrahmanrahmani0@gmail.com
 
 ---
 
